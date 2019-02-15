@@ -1,4 +1,6 @@
-1. Create a pivotal tracker board. 
+1. Created a pivotal tracker board. 
 
-2. Re-design using html and css
+2. Re-design an html page using css
+
+3. Linked pages
 
